@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "61efbd3f102578bc6c557888"
+  },
+  "Title": "Hakkımda",
+  "Content": "Lorem ipsum amed",
+  "BlogCategoryId": "61eef5c8456f39b9dad7781f",
+  "AddDate": {
+    "$date": "2022-01-25T09:05:03.480Z"
+  },
+  "__v": 0,
+  "MainImg": "yol/yollar/dizinim/resim.img",
+  "IsDeleted": false
+},{
+  "_id": {
+    "$oid": "61f04207f64794f54a36c136"
+  },
+  "Title": "BAŞLIK GELDİ",
+  "Content": "Denemea",
+  "BlogCategoryId": "61eef5c8456f39b9dad7781f",
+  "IsDeleted": false,
+  "AddDate": {
+    "$date": "2022-01-25T18:31:35.330Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f04212f64794f54a36c139"
+  },
+  "Title": "BAŞLIK GELDİ",
+  "Content": "Denemea",
+  "BlogCategoryId": "61f041aa5ab13a837fbe4612",
+  "IsDeleted": false,
+  "AddDate": {
+    "$date": "2022-01-25T18:31:46.701Z"
+  },
+  "__v": 0
+}]

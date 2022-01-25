@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "61eef5c8456f39b9dad7781f"
+  },
+  "AddDate": {
+    "$date": "2022-01-25T09:34:12.132Z"
+  },
+  "IsDeleted": false,
+  "Name": "Saglik"
+},{
+  "_id": {
+    "$oid": "61efc414f95ac13a7c0fc580"
+  },
+  "Name": "Bilim",
+  "IsDeleted": false,
+  "AddDate": {
+    "$date": "2022-01-25T09:34:12.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f037a3838ff0034a8371ba"
+  },
+  "Name": "Gündem",
+  "IsDeleted": false,
+  "AddDate": {
+    "$date": "2022-01-25T17:47:15.087Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f041aa5ab13a837fbe4612"
+  },
+  "Name": "İnsan Hakları",
+  "IsDeleted": false,
+  "AddDate": {
+    "$date": "2022-01-25T18:30:02.162Z"
+  },
+  "__v": 0
+}]
